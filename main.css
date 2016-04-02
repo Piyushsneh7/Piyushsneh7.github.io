@@ -15,8 +15,9 @@ nav ul li, footer ul li {
     margin-right: 20px;
 }
 a {
-    text-decoration: none;
+    text-decoration: bold;
     color: #cc0000;
+
 }
 a:hover {
     text-decoration: underline;
