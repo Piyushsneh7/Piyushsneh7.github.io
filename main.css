@@ -1,43 +1,47 @@
 body {
     margin: 60px auto;
     width: 70%;
-    background-color:black;
+    background-color:#2554c7;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
+    color:#2554c7;
 }
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
 a {
-    text-decoration: none;
-    color: #999;
+    text-decoration: bold;
+    color: #cc0000;
+
 }
 a:hover {
     text-decoration: underline;
+    color:#ffd700;
 }
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    color:White;
+    color:black;
 }
 p {
     font-size: 1.5em;
     line-height: 1.4em;
-    color: red;
+    color: white;
 }
 footer {
-    border-top: 1px solid #d5d5d5;
+    border-top: 1px solid #cc0000;
     font-size: .8em;
 }
 
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
+    color:#cc0000;
 }
 
 ul.posts li {
